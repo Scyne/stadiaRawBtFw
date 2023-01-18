@@ -6,6 +6,8 @@ So I pulled the bin files from the google updater because I want to make sure it
 
 ...and also because I _REALLY_ want haptics but I'm too smooth-brained to edit the firmware myself.
 
+> UPDATE: Apparently Haptics _are_ working, just not on every windows system. SCORE! Still hope that this Repo helps someone do something awsome though!
+
 ## What I saw...
 
 It looks like when you do the initial verification, chrome has you enter a manual bootloader flash mode:
@@ -40,6 +42,6 @@ I don't know... Man, I'm just someone that really likes the controller and think
 
 I was an all-in user of [OnLive](https://en.wikipedia.org/wiki/OnLive) and when Sony killed it I was devastated, ever since I've been careful around cloud services like this to avoid getting burned. When Stadia came around I really wanted it to be the thing, but google never wanted to give this service a chance... It's a shame that its' passionate and innovative developers were never really given the chance to create something truly great. meh... at least we got a free, great feeling controller out of the deal.
 
-I dream that with time new features can get added to the code like haptics and audio over BT. I don't know what you can or cannot see in the firmware or what the hardware can or cannot control but hopefully, I've done my part to help.
+I dream that with time new features can get added to the code like audio over BT. I don't know what you can or cannot see in the firmware or what the hardware can or cannot control but hopefully, I've done my part to help.
 
 Anyway, See y'all.
