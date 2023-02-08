@@ -51,7 +51,7 @@ It looks like all of those files can be fetched from [https://stadia.google.com/
 
 ### HID Descriptors
 
-The awsome [DJm00n](https://github.com/DJm00n), a mad lad that apparently PCAPs controllers more than a fish swims in water.
+The awsome [DJm00n](https://github.com/DJm00n), a mad lad that apparently PCAPs controllers more than a fish swims in water has capped packets and have docuimented the HID discriptors for the controller.
 
 - Check out their work here: [https://github.com/DJm00n/ControllersInfo/tree/master/stadiacontroller](https://github.com/DJm00n/ControllersInfo/tree/master/stadiacontroller)
 
