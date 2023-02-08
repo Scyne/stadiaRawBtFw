@@ -36,6 +36,25 @@ At that point, you get the message telling you that the download was complete an
 
 It looks like all of those files can be fetched from [https://stadia.google.com/controller/data/](https://stadia.google.com/controller/data/)`filename`
 
+> To reset the controller while in one of the flashing modes:
+> 
+>     1. Unplug the controller
+> 
+>     2. Hold the Stadia button for 10 seconds to reset it
+> 
+> 
+> Presumably this just turns off the controller so it's no longer "unlocked".
+> 
+> ![stadia google com_controller_](https://user-images.githubusercontent.com/630909/215636927-77b99cb4-0e9a-4b30-a001-b09c0e41e56e.png)
+> 
+> (credit: [rummik](https://github.com/rummik))
+
+### HID Descriptors
+
+The awsome [DJm00n](https://github.com/DJm00n), a mad lad that apparently PCAPs controllers more than a fish swims in water.
+
+- Check out their work here: [https://github.com/DJm00n/ControllersInfo/tree/master/stadiacontroller](https://github.com/DJm00n/ControllersInfo/tree/master/stadiacontroller)
+
 ## Where do we go from here?
 
 I don't know... Man, I'm just someone that really likes the controller and thinks that someone smarter than me will be able to fork this repo and build a standalone flash tool so that future users can update old controllers for years to come...
